@@ -1,6 +1,8 @@
 <?php
 // index.php - Գլխավոր էջ
+
 ?>
+
 <!DOCTYPE html>
 <html lang="hy">
 <head>
@@ -86,25 +88,25 @@
             <h2 class="section-title">Հանրահայտ երգեր</h2>
             <div class="song-grid">
                 <div class="song-card">
-                    <a href="song.php?id=1"style=" text-decoration: none;"><div class="song-cover" style="background: #d2afff;">🎵</div>
+                    <a href="song.php?id=19"style=" text-decoration: none;"><div class="song-cover" style="background: #d2afff;">🎵</div>
                     <h3>Dynamite</h3>
                     <p class="song-album">BE</p>
                     <a href="song.php?id=1" class="btn-small">Դիտել</a>
                 </div></a>
                 <div class="song-card">
-                    <a href="song.php?id=1"style=" text-decoration: none;"> <div class="song-cover" style="background: #b88ae8;">🎵</div>
+                    <a href="song.php?id=21"style=" text-decoration: none;"> <div class="song-cover" style="background: #b88ae8;">🎵</div>
                     <h3>Butter</h3>
                     <p class="song-album">Butter</p>
                     <a href="song.php?id=2" class="btn-small">Դիտել</a>
                 </div></a>
                 <div class="song-card">
-                     <a href="song.php?id=1"style=" text-decoration: none;"> <div class="song-cover" style="background: #9b6fd4;">🎵</div>
+                     <a href="song.php?id=10"style=" text-decoration: none;"> <div class="song-cover" style="background: #9b6fd4;">🎵</div>
                     <h3>Spring Day</h3>
                     <p class="song-album">You Never Walk Alone</p>
                     <a href="song.php?id=3" class="btn-small">Դիտել</a>
                 </div></a>
                 <div class="song-card">
-                      <a href="song.php?id=1"style=" text-decoration: none;"><div class="song-cover" style="background: #7a5d8a;">🎵</div>
+                      <a href="song.php?id=11"style=" text-decoration: none;"><div class="song-cover" style="background: #7a5d8a;">🎵</div>
                     <h3>DNA</h3>
                     <p class="song-album">Love Yourself: Her</p>
                     <a href="song.php?id=4" class="btn-small">Դիտել</a>

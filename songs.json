@@ -28,7 +28,7 @@
         {
           "id": 2,
           "title": "N.O",
-          "image": "no.jpg",
+          "image": "images/no.jpeg",
           "lyrics": [
             { "line": "I don't wanna be a slave to the money", "translation": "Ես չեմ ուզում փողի ստրուկ լինել" },
             { "line": "I don't wanna be a slave to the greed", "translation": "Ես չեմ ուզում ագահության ստրուկ լինել" }
@@ -47,7 +47,7 @@
         {
           "id": 3,
           "title": "Boy In Luv",
-          "image": "boy-in-luv.jpg",
+          "image": "images/boyinluv.jpeg",
           "lyrics": [
             { "line": "Tell me what you want right now", "translation": "Ասա ինձ, թե ինչ ես ուզում հիմա" },
             { "line": "I'm your man, I'm your man", "translation": "Ես քո տղամարդն եմ" }
@@ -66,7 +66,7 @@
         {
           "id": 4,
           "title": "Danger",
-          "image": "danger.jpg",
+          "image": "images/danger.jpeg",
           "lyrics": [
             { "line": "You're in danger, you're in danger", "translation": "Դու վտանգի մեջ ես" },
             { "line": "I'm so dangerous", "translation": "Ես այնքան վտանգավոր եմ" }
@@ -77,7 +77,7 @@
         {
           "id": 5,
           "title": "War of Hormone",
-          "image": "war-of-hormone.jpg",
+          "image": "images/war.jpeg",
           "lyrics": [
             { "line": "All the girls are so pretty", "translation": "Բոլոր աղջիկներն այնքան գեղեցիկ են" },
             { "line": "I'm a king, I'm a king", "translation": "Ես թագավոր եմ" }
@@ -96,7 +96,7 @@
         {
           "id": 6,
           "title": "I Need U",
-          "image": "i-need-u.jpg",
+          "image": "images/ineedyou.jpeg",
           "lyrics": [
             { "line": "I need you girl", "translation": "Դու ինձ պետք ես, աղջիկ" },
             { "line": "I want you girl", "translation": "Ես քեզ եմ ուզում, աղջիկ" }
@@ -107,7 +107,7 @@
         {
           "id": 7,
           "title": "Dope",
-          "image": "dope.jpg",
+          "image": "images/dope.jpeg",
           "lyrics": [
             { "line": "I'm so dope, I'm so dope", "translation": "Ես այնքան թմբիր եմ" },
             { "line": "We don't know, we don't know", "translation": "Մենք չգիտենք" }
@@ -126,7 +126,7 @@
         {
           "id": 8,
           "title": "Run",
-          "image": "run.jpg",
+          "image": "images/run.jpeg",
           "lyrics": [
             { "line": "Run, run, run again", "translation": "Վազի՛ր, վազի՛ր, նորից վազի՛ր" },
             { "line": "I'm falling, I'm falling", "translation": "Ես ընկնում եմ" }
@@ -145,18 +145,27 @@
         {
           "id": 9,
           "title": "Blood Sweat & Tears",
-          "image": "blood-sweat-tears.jpg",
+          "image": "images/blood.jpeg",
           "lyrics": [
             { "line": "My blood, sweat and tears", "translation": "Իմ արյունը, քրտինքը և արցունքները" },
             { "line": "My last dance", "translation": "Իմ վերջին պարը" }
           ],
           "youtube": "https://www.youtube.com/watch?v=...",
           "spotify": "https://open.spotify.com/track/..."
-        },
+        }
+      ]
+    },
+      {
+      "id": 8,
+      "name": "You Never Walk Alone",
+      "year": 2016,
+      "cover": "album/youneverwalkalone.jpeg",
+      "songs": [
+        
         {
           "id": 10,
           "title": "Spring Day",
-          "image": "spring-day.jpg",
+          "image": "images/spring.jpeg",
           "lyrics": [
             { "line": "When the snow melts, I miss you", "translation": "Երբ ձյունը հալվում է, ես կարոտում եմ քեզ" },
             { "line": "How much longer do I have to wait", "translation": "Որքա՞ն էլ պետք է սպասեմ" }
@@ -167,7 +176,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 9,
       "name": "Love Yourself: Her",
       "year": 2017,
       "cover": "album/love-yourself-her.jpeg",
@@ -175,7 +184,7 @@
         {
           "id": 11,
           "title": "DNA",
-          "image": "dna.jpg",
+          "image": "images/dna.jpg",
           "lyrics": [
             { "line": "DNA, DNA, DNA", "translation": "ԴՆԹ" },
             { "line": "We are connected by DNA", "translation": "Մենք կապված ենք ԴՆԹ-ով" }
@@ -186,7 +195,7 @@
         {
           "id": 12,
           "title": "MIC Drop",
-          "image": "mic-drop.jpg",
+          "image": "images/micdrop.jpeg",
           "lyrics": [
             { "line": "Did you see my bag?", "translation": "Տեսա՞ր իմ պայուսակը" },
             { "line": "It's hella trophies and it's hella thick", "translation": "Այնտեղ շատ գավաթներ կան" }
@@ -197,7 +206,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 10,
       "name": "Love Yourself: Tear",
       "year": 2018,
       "cover": "album/love-yourself-tear.jpeg",
@@ -205,7 +214,7 @@
         {
           "id": 13,
           "title": "Fake Love",
-          "image": "fake-love.jpg",
+          "image": "images/fakelove.jpeg",
           "lyrics": [
             { "line": "I grew a flower that can't bloom", "translation": "Ես աճեցրեցի մի ծաղիկ, որը չի ծաղկում" },
             { "line": "In a dream that can't come true", "translation": "Մի երազում, որը չի իրականանում" }
@@ -216,7 +225,7 @@
         {
           "id": 14,
           "title": "The Truth Untold",
-          "image": "truth-untold.jpg",
+          "image": "images/truth.jpg",
           "lyrics": [
             { "line": "I'm standing in the garden", "translation": "Ես կանգնած եմ այգում" },
             { "line": "With a flower that's not pretty", "translation": "Մի ծաղիկով, որը գեղեցիկ չէ" }
@@ -227,7 +236,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 11,
       "name": "Love Yourself: Answer",
       "year": 2018,
       "cover": "album/love-yourself-answer.jpeg",
@@ -235,7 +244,7 @@
         {
           "id": 15,
           "title": "IDOL",
-          "image": "idol.jpg",
+          "image": "images/idol.jpg",
           "lyrics": [
             { "line": "You can call me artist", "translation": "Կարող եք ինձ արտիստ անվանել" },
             { "line": "You can call me idol", "translation": "Կարող եք ինձ կուռք անվանել" }
@@ -246,7 +255,7 @@
       ]
     },
     {
-      "id": 11,
+      "id": 12,
       "name": "Map of the Soul: Persona",
       "year": 2019,
       "cover": "album/motspersona.jpeg",
@@ -254,7 +263,7 @@
         {
           "id": 16,
           "title": "Boy With Luv",
-          "image": "boy-with-luv.jpg",
+          "image": "images/boywithluv.jpg",
           "lyrics": [
             { "line": "I'm just a boy with luv", "translation": "Ես պարզապես սիրով տղա եմ" },
             { "line": "You're just a girl with luv", "translation": "Դու պարզապես սիրով աղջիկ ես" }
@@ -265,7 +274,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 13,
       "name": "Map of the Soul: 7",
       "year": 2020,
       "cover": "album/mots7.jpeg",
@@ -273,7 +282,7 @@
         {
           "id": 17,
           "title": "ON",
-          "image": "on.jpg",
+          "image": "images/on.jpg",
           "lyrics": [
             { "line": "Bring the pain, bring the pain", "translation": "Բեր ցավը" },
             { "line": "I'm the one who's gonna bring the pain", "translation": "Ես եմ, ով ցավ կբերի" }
@@ -284,7 +293,7 @@
         {
           "id": 18,
           "title": "Black Swan",
-          "image": "black-swan.jpg",
+          "image": "images/blackswan.jpeg",
           "lyrics": [
             { "line": "The heart wants to stop", "translation": "Սիրտը ուզում է կանգ առնել" },
             { "line": "But the music keeps playing", "translation": "Բայց երաժշտությունը շարունակում է հնչել" }
@@ -295,7 +304,7 @@
       ]
     },
     {
-      "id": 13,
+      "id": 14,
       "name": "BE",
       "year": 2020,
       "cover": "album/be.jpeg",
@@ -303,7 +312,7 @@
         {
           "id": 19,
           "title": "Dynamite",
-          "image": "dynamite.jpg",
+          "image": "images/dynamite.jpg",
           "lyrics": [
             { "line": "Cause I-I-I'm in the stars tonight", "translation": "Որովհետև ես այս գիշեր աստղերի մեջ եմ" },
             { "line": "So watch me bring the fire and set the night alight", "translation": "Այնպես որ նայիր, թե ինչպես եմ կրակ բերում և գիշերը լուսավորում" }
@@ -314,7 +323,7 @@
         {
           "id": 20,
           "title": "Life Goes On",
-          "image": "life-goes-on.jpg",
+          "image": "images/lifegoeson.jpg",
           "lyrics": [
             { "line": "Like an echo in the forest", "translation": "Անտառի արձագանքի նման" },
             { "line": "One day, it will come back", "translation": "Մի օր այն կվերադառնա" }
@@ -325,7 +334,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": 15,
       "name": "Butter",
       "year": 2021,
       "cover": "album/butter.jpeg",
@@ -333,7 +342,7 @@
         {
           "id": 21,
           "title": "Butter",
-          "image": "butter-song.jpg",
+          "image": "images/butter.jpg",
           "lyrics": [
             { "line": "Smooth like butter", "translation": "Հարթ, ինչպես կարագ" },
             { "line": "Like a criminal undercover", "translation": "Գաղտնի հանցագործի նման" }
@@ -344,7 +353,7 @@
       ]
     },
     {
-      "id": 15,
+      "id": 16,
       "name": "Proof",
       "year": 2022,
       "cover": "album/proof.jpeg",
@@ -352,7 +361,7 @@
         {
           "id": 22,
           "title": "Yet To Come",
-          "image": "yet-to-come.jpg",
+          "image": "images/yet.jpeg",
           "lyrics": [
             { "line": "The best is yet to come", "translation": "Լավագույնը դեռ առջևում է" },
             { "line": "We're gonna make it together", "translation": "Մենք միասին կանենք դա" }
@@ -363,7 +372,7 @@
         {
           "id": 23,
           "title": "Run BTS",
-          "image": "run-bts.jpg",
+          "image": "images/runbts.jpeg",
           "lyrics": [
             { "line": "Run, run, run, we're gonna run", "translation": "Վազում ենք, մենք վազելու ենք" },
             { "line": "Until the end", "translation": "Մինչև վերջ" }
@@ -374,7 +383,7 @@
       ]
     },
      {
-      "id": 16,
+      "id": 17,
       "name": "ARIRANG",
       "year": 2026,
       "cover": "album/arirang.jpeg",
