@@ -243,6 +243,24 @@ body {
     transform: translateY(-3px);
     background: #ede0ff;
 }
+.hero-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-logo-img {
+    width: 280px;            /* Նկարի լայնությունը */
+    height: 180px;           /* Նկարի բարձրությունը */
+    object-fit: cover;       /* Որպեսզի նկարը չձգվի ու գեղեցիկ տեղավորվի */
+    border-radius: 20px;     /* Կլորացված անկյուններ (ճիշտ ձեր գրանցման բոքսի ոճով) */
+    border: 2px solid rgba(205, 88, 207, 0.6); /* Մանուշակագույն նրբագեղ շրջանակ */
+    box-shadow: 0 0 25px rgba(205, 88, 207, 0.35),
+                inset 0 0 10px rgba(205, 88, 207, 0.15); /* Թեթև մանուշակագույն լուսավորություն (glow) */
+    transition: transform 0.3s ease;
+}
+
+
 
 /* === STATS === */
 .stats {
@@ -507,6 +525,7 @@ footer {
     .song-grid {
         grid-template-columns: repeat(2, 1fr);
     }
+  
 }
 
 @media (max-width: 500px) {
@@ -549,6 +568,7 @@ footer {
     .stats {
         grid-template-columns: 1fr 1fr;
     }
+   
 }
 
 

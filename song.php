@@ -296,6 +296,7 @@ if (!$song) {
     </main>
 
     <footer>
+        <img id="gif" style="width: 1500px;" src="bottom.gif">
         <div class="footer-content">
             <p>&copy; 2026 BangtanWorld - BTS Lyrics & Games</p>
         </div>
